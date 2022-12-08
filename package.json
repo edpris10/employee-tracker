@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.18.1",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edpris10/employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edpris10/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/edpris10/employee-tracker#readme"
+}
